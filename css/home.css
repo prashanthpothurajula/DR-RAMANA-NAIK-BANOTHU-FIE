@@ -33,6 +33,7 @@
     text-decoration: none;
     color:rgb(99, 145, 232) ;
 }
-.back-ground-navbar1{
+.navbar-section{
 background-color:rgb(120, 160, 235) ;
+height: 100px;
 }
